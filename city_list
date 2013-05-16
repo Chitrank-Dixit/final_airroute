@@ -1,0 +1,27 @@
+Indore     to [Mumbai:514.99 kms ,Dubai:2105.02 kms ,Rome:6176.66 kms ,Paris:6941.1 kms ,Madrid:7541.39 kms ,London: ,Berlin:6175.05 kms ,Stockholm:6043.09 kms , New York:12306.65 kms ,Tokyo: ,Seoul: ,Melbourne: ,Beijing: ]
+
+Mumbai     to [Indore:514.99 kms ,Dubai:1936.04 kms ,Rome: ,Paris: ,Madrid: ,London: ,Berlin:6292.54 kms ,Geneva: ,Stockholm: ,New York:12546.45 kms ,Tokyo: ,Seoul: ,Melbourne: ,Beijing: ]
+
+Dubai      to [Mumbai:1936.04 kms ,Indore:2105.02 kms ,Rome: ,Paris: ,Madrid: ,London: ,Berlin:4622.04 kms ,Geneva: ,Stockholm: ,New York:11007.91 kms ,Tokyo: ,Seoul: ,Melbourne: ,Beijing: ]
+
+Rome       to [Mumbai: ,Dubai: ,Indore:6176.66 kms ,Paris: ,Madrid: ,London: ,Berlin: ,Geneva: ,Stockholm: ,New York: ,Tokyo: ,Seoul: ,Melbourne: ,Beijing: ]
+
+Paris      to [Mumbai: ,Dubai: ,Rome: ,Indore:6941.1 kms ,Madrid: ,London: ,Berlin: ,Geneva: ,Stockholm: ,New York: ,Tokyo: ,Seoul: ,Melbourne: ,Beijing: ]
+  
+Madrid     to [Mumbai: ,Dubai: ,Rome: ,Paris: ,Indore:7541.39 kms ,London: ,Berlin: ,Geneva: ,Stockholm: ,New York: ,Tokyo: ,Seoul: ,Melbourne: ,Beijing: ]
+
+London     to [Mumbai: ,Dubai: ,Rome: ,Paris: ,Madrid: ,Indore: ,Berlin: ,Geneva: ,Stockholm: ,New York: ,Tokyo: ,Seoul: ,Melbourne: ,Beijing: ]
+
+Berlin     to [Mumbai:6292.54 kms ,Dubai:4622.04 kms ,Rome: ,Paris: ,Madrid: ,London: ,Indore:6175.05 kms ,Geneva: ,Stockholm: ,New York:6387.49 kms ,Tokyo: ,Seoul: ,Melbourne: ,Beijing: ]
+
+Stockholm  to [Mumbai: ,Dubai: ,Rome: ,Paris: ,Madrid: ,London: ,Berlin: ,Geneva: ,Indore:6043.09 kms ,New York: ,Tokyo: ,Seoul: ,Melbourne: ,Beijing: ]
+
+New York   to [Mumbai:12546.45 kms ,Dubai:11007.91 kms ,Rome: ,Paris: ,Madrid: ,London: ,Berlin:6387.49 kms ,Geneva: ,Stockholm: ,Indore:12306.65 kms ,Tokyo: ,Seoul: ,Melbourne: ,Beijing: ]
+
+Tokyo      to [Mumbai: ,Dubai: ,Rome: ,Paris: ,Madrid: ,London: ,Berlin: ,Geneva: ,Stockholm: ,New York: ,Indore: ,Seoul: ,Melbourne: ,Beijing: ]
+
+Seoul      to [Mumbai: ,Dubai: ,Rome: ,Paris: ,Madrid: ,London: ,Berlin: ,Geneva: ,Stockholm: ,New York: ,Tokyo: ,Indore: ,Melbourne: ,Beijing: ]   
+
+Melbourne  to [Mumbai: ,Dubai: ,Rome: ,Paris: ,Madrid: ,London: ,Berlin: ,Geneva: ,Stockholm: ,New York: ,Tokyo: ,Seoul: ,Indore: ,Beijing: ]
+
+Beijing    to [Mumbai: ,Dubai: ,Rome: ,Paris: ,Madrid: ,London: ,Berlin: ,Geneva: ,Stockholm: ,New York: ,Tokyo: ,Seoul: ,Melbourne: ,Indore: ]

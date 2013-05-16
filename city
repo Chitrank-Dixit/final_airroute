@@ -1,0 +1,5 @@
+{'Indore': {'Dubai': 2105.02, 'Mumbai': 514.99, 'Berlin': 6175.05, 'New York': 12306.65}, 
+	'Dubai': {'Indore': 2105.02, 'Mumbai': 1936.04, 'Berlin': 4622.04, 'New York': 11007.91}, 
+	'Mumbai': {'Indore': 514.99, 'Dubai': 1936.04, 'Berlin': 6292.54, 'New York': 12546.45},
+	 'Berlin': {'Indore': 6175.05, 'Dubai': 4622.04, 'Mumbai': 6292.54, 'New York': 6387.49},
+	  'New York': {'Indore': 12306.65, 'Dubai': 11007.91, 'Mumbai': 12546.45, 'Berlin': 6387.49}}
