@@ -7,8 +7,8 @@ def send_mail(username,passwd,rec_email):
         SMTP_SERVER = 'smtp.gmail.com'
         SMTP_PORT = 587
  
-        sender = 'chitrankdixit1@gmail.com'
-        password= 'rossi46656915'
+        sender = 'youremail' # example@gmail.com
+        password= 'yourpass' # abcdefghi
 	
 	subject = 'Air Route Finder Application Specific Password'
 	body = '''Welcome to Air Route Finder, Enter the Application and Find your shortest tour [enter]
